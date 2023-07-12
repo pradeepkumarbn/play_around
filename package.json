@@ -1,0 +1,19 @@
+{
+  "name": "play_around",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc_cagr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepkumarbn/play_around.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeepkumarbn/play_around/issues"
+  },
+  "homepage": "https://github.com/pradeepkumarbn/play_around#readme"
+}
